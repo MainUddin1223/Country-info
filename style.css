@@ -1,0 +1,10 @@
+.error-p{
+    display: none;
+}
+.country-card{
+    height: 400px;
+    margin: 0 auto;
+}
+.flag{
+    height: 150px;
+}
